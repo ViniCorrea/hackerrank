@@ -9,8 +9,8 @@ Each of the following N lines contains a single integer.
 Display the average of the N integers, rounded off to three decimal places.
 
 ## Input Constraints
-1 <= N M= 500
--10000 <= x <= 10000 (x refers to elements of the list of integers for which the average is to be computed)
+`1 <= N M= 500`
+`-10000 <= x <= 10000` (x refers to elements of the list of integers for which the average is to be computed)
 
 ## Sample Input
 
